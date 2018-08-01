@@ -1,0 +1,115 @@
+body {
+    font-family: Muli, "Segoe UI", Helvetica, sans-serif;
+  }
+
+
+.navbar-custom{
+  background-color: #282e3e;
+  color: #fff!important;
+  border-radius: 0px;
+  padding: 10px;
+}
+.navbar-custom .navbar-nav>li>a{
+  color: #fff;
+  font-size: 19px;
+  margin-left: 13px;
+}
+.navbar-custom .navbar-nav>li>a:hover{
+  color: #fff;
+}
+.carousel-caption{
+  color: #fff;
+  position: absolute;
+  top: 223px;
+  left: 13px;
+}
+b{
+  font-size: 40px;
+  border-bottom-style: ridge;
+  font-weight: bold;
+  border-bottom-color: #82c434;
+}
+#services{
+  font-size: 45px;
+  border-bottom-style:ridge;
+  font-weight: bold;
+  border-bottom-color: #82c430;
+}
+
+.coli{
+  font-size: 30px;
+  border-style: solid;
+  border-color: #999999;
+  border-width: 1px;
+  min-height: 256px;
+
+}
+.icons{
+  width: 130px;
+  font-size: 60px;
+  background-color: #d9d9d9;
+  height: 110px;
+  color: #82c434;
+  margin-top: -50px;
+  padding: 5px 10px;
+}
+.btn-primary{
+  background-color: #82c434;
+  border-radius: 0px;
+  border-color: #82c434;
+}
+#about{
+  width: 100%;
+  min-height: 421px;
+  background-color:#282e3e;
+  margin-top: 50px;
+}
+#aboutCompany{
+  font-size: 45px;
+  border-bottom-style:ridge;
+  font-weight: bold;
+  color: #fff;
+  border-bottom-color: #82c430;
+}
+#team{
+  position: relative;
+  top: 40px;
+}
+#ourTeam{
+  font-size: 45px;
+  border-bottom-style:ridge;
+  font-weight: bold;
+  border-bottom-color: #82c430;
+}
+.team-members{
+  text-align: center;
+  margin-top: 50px;
+
+}
+.icon i{
+  font-size: 20px;
+  height: 50px;
+  width: 50px;
+  background-color: #98e698;
+  padding: 18px;
+  border-radius: 50px;
+}
+.icon i:hover{
+  background-color: #46d246;
+}
+#footer{
+  width: 100%;
+  min-height: 268px;
+  background-color:#282e3e;
+  position: relative;
+  top: 70px;
+}
+/* ContactUs page css*/
+.contact-us{
+  border-bottom-style:ridge;
+  font-weight: bold;
+  border-bottom-color: #82c430;
+  color: #1b2f3e;
+  font-size: 23px;
+
+}
